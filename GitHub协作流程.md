@@ -3,15 +3,15 @@
 
 ## 客户端
 1. 点击 Clone a repository
-![image][tmp1]
+![avatar][tmp1]
 * 粘贴项目的url然后clone
-![image][tmp2]
+![avatar][tmp2]
 * 新建自己的分支
-![image][tmp5]
+![avatar][tmp5]
 * 改动代码后提交代码，然后推送到远端仓库
-![image][tmp3]
+![avatar][tmp3]
 * 打开GitHub网页，发起pull request
-![image][tmp4]
+![avatar][tmp4]
 
 ## 命令行
 1. Clone仓库到本地：```
