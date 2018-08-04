@@ -5,7 +5,6 @@
 1. 点击 Clone a repository
 <img src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_1.png"></img>
 2. 粘贴项目的url然后clone
-<img src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_2.png"></img>
 3. 新建自己的分支
 <img src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_5.png"></img>
 4. 改动代码后提交代码，然后推送到远端仓库
