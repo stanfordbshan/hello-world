@@ -14,11 +14,8 @@
 <img src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_4.png"></img>
 
 ## 命令行
-1. Clone仓库到本地：```
-git clone <repository url>
-```
+1. Clone仓库到本地：```git clone <repository url>```
 2. 建立新的分支并切换到该分支：```git checkout -b <branch name>```
-
 3. 提交代码：```git add * ``` ```git commit -m <commit message>```
 4. 推送到远程分支：```git push origin <branch name>```
 5. 与客户端一样，发起pull request
