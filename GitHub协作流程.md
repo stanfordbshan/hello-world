@@ -17,9 +17,8 @@
 1. Clone仓库到本地：```
 git clone <repository url>
 ```
-* 建立新的分支并切换到该分支：```git checkout -b <branch name>```
+2. 建立新的分支并切换到该分支：```git checkout -b <branch name>```
 
-* 提交代码：```git add * ``` ```git commit -m <commit message>```
-* 推送到远程分支：```git push origin <branch name>```
-
-* 与客户端一样，发起pull request
+3. 提交代码：```git add * ``` ```git commit -m <commit message>```
+4. 推送到远程分支：```git push origin <branch name>```
+5. 与客户端一样，发起pull request
