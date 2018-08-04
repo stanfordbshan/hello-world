@@ -3,15 +3,15 @@
 
 ## 客户端
 1. 点击 Clone a repository
-<src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_1.png"></img>
+<img src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_1.png"></img>
 * 粘贴项目的url然后clone
-<src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_2.png"></img>
+<img src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_2.png"></img>
 * 新建自己的分支
-<src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_3.png"></img>
+<img src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_3.png"></img>
 * 改动代码后提交代码，然后推送到远端仓库
-<src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_4.png"></img>
+<img src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_4.png"></img>
 * 打开GitHub网页，发起pull request
-<src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_5.png"></img>
+<img src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_5.png"></img>
 
 ## 命令行
 1. Clone仓库到本地：```
