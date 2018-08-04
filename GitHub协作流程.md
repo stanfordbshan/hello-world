@@ -1,7 +1,7 @@
 ## GitHub协作流程
 这是一个简单的GitHub协作流程，如果需要了解更多，可以查询相关资料([link](http://rogerdudler.github.io/git-guide/index.zh.html) )。下面的流程默认代码贡献者被添加为Collaborator，否则需要先fork项目。
 
-## 客户端
+## 客户端(GitHub Desktop)
 1. 点击 Clone a repository
 <img src="https://raw.githubusercontent.com/mhhfut/imgsrc/master/raw/github_1.png"></img>
 2. 粘贴项目的url然后clone
